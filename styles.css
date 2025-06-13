@@ -1,7 +1,25 @@
 nav{
     background-color: bisque;
     border-radius: 30px;
-    padding: 2px;
+    padding-left: 20px;
+    padding: 30px;
+    font-size: large;
+    text-align: center;
+    word-spacing: 200px;
+    gap: 50rem;
+   
 
 }
+nav a{
+    
+    display: inline;
+    list-style: none;
+    padding: 4px;
+    text-decoration: none;
+    gap: 50rem;
+} 
+nav :hover{
+    color: rgb(132, 22, 22);
+}
+
 
