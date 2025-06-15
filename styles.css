@@ -1,3 +1,5 @@
+body{ background-color: antiquewhite;}
+
 nav{
     background-color: bisque;
     border-radius: 30px;
@@ -21,5 +23,13 @@ nav a{
 nav :hover{
     color: rgb(132, 22, 22);
 }
-
+h1{
+    background-color: rgb(212, 186, 150);
+    padding: 200px;
+    font-weight: 800px;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+    margin: 2px;
+}
 
