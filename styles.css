@@ -47,6 +47,36 @@ h1{
     font-weight: bolder;
     font-size: 60px;
     padding: 100px;
+
+
+
+#projects{
+    background-color: rgb(209, 209, 195);
+    padding: 100px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 2px;
+}
+
+h2{
+    font-size: 60px;
+    font-weight: 800px;
+}
+
+.img{
+    display: flex;
+    width: 10px;
+    padding-right: 10px;
+    margin-bottom: 5px;
+    gap: 200px;
+    font-family: "Lucida console", "Courier New", monospace;
+    font-size: 30px;
+}
+
+img{
+    box-shadow: 16px 4px 10px 5px;
+    border-radius: 3%;
+
 }
  #contacts{
     background-color: beige;
