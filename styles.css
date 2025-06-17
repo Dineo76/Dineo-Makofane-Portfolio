@@ -1,3 +1,35 @@
-selector{
-    property: value;
+body{ background-color: antiquewhite;}
+
+nav{
+    background-color: bisque;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding: 30px;
+    font-size: large;
+    text-align: center;
+    word-spacing: 200px;
+    gap: 50rem;
+   
+
 }
+nav a{
+    
+    display: inline;
+    list-style: none;
+    padding: 4px;
+    text-decoration: none;
+    gap: 50rem;
+} 
+nav :hover{
+    color: rgb(132, 22, 22);
+}
+h1{
+    background-color: rgb(212, 186, 150);
+    padding: 200px;
+    font-weight: 800px;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+    margin: 2px;
+}
+
